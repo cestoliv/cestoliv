@@ -1,5 +1,5 @@
 ## 👋, cestoliv
-<img align='right' src="founder.svg" width="230">
+<a href="https://chevro.fr"><img align='right' src="founder.svg" width="230"></a>
 <p><em>👨‍💻Développeur la plupart du temps</em><br>
 <em>📷Vidéaste sur Youtube</em><br>
 <em>✏️Quelques fois designer</em><br>
@@ -46,20 +46,3 @@ var cestoliv = {
     "Docker"
   ]
 ```
-
-### Hi there 👋
-
-<!--
-**cestoliv/cestoliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
