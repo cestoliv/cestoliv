@@ -7,7 +7,6 @@
 
 [![cestoliv.com](https://img.shields.io/badge/cestoliv.com-%2300b4c4?style=flat-square&logo=internet-explorer)](https://cestoliv.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/cestoliv?color=%231da1f2&label=Twitter%20%40cestoliv&style=flat-square&logo=twitter)](https://twitter.com/cestoliv)
-[![YouTube Follow](https://img.shields.io/badge/YouTube-Follow-%23ff0000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCIVzban_FWu6idGf2rwSzlg)
 
 ```javascript
 var cestoliv = {
