@@ -1,7 +1,7 @@
 ## 👋, cestoliv
 <a href="https://chevro.fr"><img align='right' src="https://raw.githubusercontent.com/cestoliv/cestoliv/master/founder.svg" width="230"></a>
 <p><em>👨‍💻Développeur la plupart du temps</em><br>
-<em>📷Vidéaste sur Youtube</em><br>
+<em>📷Podcaster</em><br>
 <em>✏️Quelques fois designer</em><br>
 <em>🏫Et le reste de temps, lycéen</em><br>
 
