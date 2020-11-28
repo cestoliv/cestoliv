@@ -18,9 +18,10 @@ var cestoliv = {
   
   code: {
     Javascript: {
-      Frontend: ["VueJs"],
+      Frontend: ["Vanilla (mostly)"],
       Backend: {
-        NodeJs: ["Express", "EJS"]
+        NodeJs: ["Express", "EJS"],
+        Deno: ["Opine", "ETA"]
       }
     },
     
