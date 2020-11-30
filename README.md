@@ -12,7 +12,7 @@
 var cestoliv = {
   name: "Olivier" | "Oliv" | "CESTOLIV"
   contact: {
-    mail: "cestoliv@chevro.fr",
+    mail: "me@cestoliv.com",
     twitter: "@cestoliv"
   }
   
