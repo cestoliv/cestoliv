@@ -1,9 +1,8 @@
 ## 👋, cestoliv
 <a href="https://chevro.fr"><img align='right' src="https://raw.githubusercontent.com/cestoliv/cestoliv/master/founder.svg" width="230"></a>
 <p><em>👨‍💻Développeur la plupart du temps</em><br>
-<em>📷Podcaster</em><br>
-<em>✏️Quelques fois designer</em><br>
-<em>🏫Et le reste de temps, lycéen</em><br>
+<em>✏️J'écris quelques articles</em><br>
+<em>🏫Et le reste de temps, je suis lycéen</em><br>
 
 [![cestoliv.com](https://img.shields.io/badge/cestoliv.com-%2300b4c4?style=flat-square&logo=internet-explorer)](https://cestoliv.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/cestoliv?color=%231da1f2&label=Twitter%20%40cestoliv&style=flat-square&logo=twitter)](https://twitter.com/cestoliv)
@@ -18,7 +17,7 @@ var cestoliv = {
   
   code: {
     Javascript: {
-      Frontend: ["Vanilla (mostly)"],
+      Frontend: ["Vanilla (mostly)", "VueJS"],
       Backend: {
         NodeJs: ["Express", "EJS"],
         Deno: ["Opine", "ETA"]
@@ -33,6 +32,10 @@ var cestoliv = {
     C_plus_plus: {
       Scripting: true,
       GUI: ["Qt"]
+    },
+    
+    Java: {
+      Minecraft_Plugins: "this is where it all began!" 
     }
     
     Databases: [
