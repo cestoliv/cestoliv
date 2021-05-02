@@ -7,6 +7,8 @@
 [![cestoliv.com](https://img.shields.io/badge/cestoliv.com-%2300b4c4?style=flat-square&logo=internet-explorer)](https://cestoliv.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/cestoliv?color=%231da1f2&label=Twitter%20%40cestoliv&style=flat-square&logo=twitter)](https://twitter.com/cestoliv)
 
+Officiellement, mes repos se trouvent sur [mon instance Gitea !](https://git.cestoliv.com/cestoliv) Je mets sur Github des mirroir de mon instance Gitea ou certains projets qui en ont vraiment besoin.
+
 ```javascript
 var cestoliv = {
   name: "Olivier" | "Oliv" | "CESTOLIV"
