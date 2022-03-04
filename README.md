@@ -1,53 +1,12 @@
-## 👋, cestoliv
-<a href="https://chevro.fr"><img align='right' src="https://raw.githubusercontent.com/cestoliv/cestoliv/master/founder.svg" width="230"></a>
-<p><em>👨‍💻Développeur la plupart du temps</em><br>
-<em>✏️J'écris quelques articles</em><br>
-<em>🏫Et le reste de temps, je suis lycéen</em><br>
 
 [![cestoliv.com](https://img.shields.io/badge/cestoliv.com-%2300b4c4?style=flat-square&logo=internet-explorer)](https://cestoliv.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/cestoliv?color=%231da1f2&label=Twitter%20%40cestoliv&style=flat-square&logo=twitter)](https://twitter.com/cestoliv)
+[![Twitter Follow](https://img.shields.io/twitter/follow/cestoliv?color=%231da1f2&label=Twitter&style=flat-square&logo=twitter)](https://twitter.com/cestoliv)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC38OCWl0HX6g0WkRhdqJjmA?label=Youtube&logo=youtube&logoColor=red&style=flat-square)
+## 👋, cestoliv
 
-Officiellement, mes repos se trouvent sur [mon instance Gitea !](https://git.cestoliv.com/cestoliv) Je mets sur Github des mirroir de mon instance Gitea ou certains projets qui en ont vraiment besoin.
+**Hello world!**
+All my repos have a mirror here, on Github, because of this f\*ck\*ng centralization. But otherwise, my code is self-hosted on [my Gitlab instance](https://git.chevro.fr/cestoliv) ;)
 
-```javascript
-var cestoliv = {
-  name: "Olivier" | "Oliv" | "CESTOLIV"
-  contact: {
-    mail: "me@cestoliv.com",
-    twitter: "@cestoliv"
-  }
-  
-  code: {
-    Javascript: {
-      Frontend: ["Vanilla (mostly)", "VueJS"],
-      Backend: {
-        NodeJs: ["Express", "EJS"],
-        Deno: ["Opine", "ETA"]
-      }
-    },
-    
-    Python: {
-      Scripting: true,
-      GUI: ["Tkinter", "GTK"]
-    },
-    
-    C_plus_plus: {
-      Scripting: true,
-      GUI: ["Qt"]
-    },
-    
-    Java: {
-      Minecraft_Plugins: "this is where it all began!" 
-    }
-    
-    Databases: [
-      "MongoDB",
-      "MySQL"
-    ]
-  }
-  
-  technologies: [
-    "Linux",
-    "Docker"
-  ]
-```
+-----
+
+**Student at 42 school ([@ocartier](https://profile.intra.42.fr/users/ocartier))**
