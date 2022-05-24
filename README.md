@@ -16,6 +16,8 @@ All my repos have a mirror here, on Github, because of this f\*ck\*ng centraliza
 
 [![Matrix](https://img.shields.io/badge/Reach%20me%20on%20Matrix-%40cestoliv%3Achevro.fr-blue?style=flat-square&logo=matrix)](https://matrix.to/#/@cestoliv:chevro.fr)
 
+[![WIKI](https://img.shields.io/badge/WIKI-blue?style=flat-square&logo=wikipedia)](https://git.chevro.fr/cestoliv/wiki)
+
 -----
 
 **Student at 42 school ([@ocartier](https://profile.intra.42.fr/users/ocartier)) -> [Repos](https://git.chevro.fr/42-cestoliv)**
