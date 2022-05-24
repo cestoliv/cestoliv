@@ -20,4 +20,10 @@ All my repos have a mirror here, on Github, because of this f\*ck\*ng centraliza
 
 -----
 
-**Student at 42 school ([@ocartier](https://profile.intra.42.fr/users/ocartier)) -> [Repos](https://git.chevro.fr/42-cestoliv)**
+<div align="center">
+<br>
+
+[![ocartier's 42 stats](https://badge42.vercel.app/api/v2/cl3a1t3z6003009laxullvdys/stats?cursusId=21&coalitionId=51)](https://github.com/JaeSeoKim/badge42)
+
+**Student at 42 school ([@ocartier](https://profile.intra.42.fr/users/ocartier)) -> [Repos (on gitlab, also available as mirrors on github)](https://git.chevro.fr/42-cestoliv)**
+</div>
