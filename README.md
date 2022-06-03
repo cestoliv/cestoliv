@@ -8,7 +8,7 @@ All my repos have a mirror here, on Github, because of this f\*ck\*ng centraliza
 **Current projects**
 
 - **[CESTMADDY](https://github.com/cestoliv/cestmaddy)** -> CMS for ultra light and ultra customizable website
-- **[streaks.json](https://github.com/cestoliv/streaks.json)** -> Habits tracking app
+- **[streaks](https://github.com/Streaks-Habits)** -> Habits tracking app
 
 **Others little projects**
 
