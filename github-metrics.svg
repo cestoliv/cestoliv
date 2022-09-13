@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="203.6361357795235" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="203.6361357795235" y="0" width="169.2080134188078" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="372.8441491983313" y="0" width="48.00959853064189" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="420.8537477289732" y="0" width="15.733969911443012" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="436.5877176404162" y="0" width="10.0765840927566" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="446.6643017331728" y="0" width="5.6556811800142235" height="8" fill="#438eff"/>
-                    <rect mask="url(#languages-bar)" x="452.319982913187" y="0" width="4.694884837508519" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="457.0148677506955" y="0" width="2.9851322493044163" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="203.64223713960024" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="203.64223713960024" y="0" width="169.2100444377373" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="372.8522815773376" y="0" width="48.00511882850375" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="420.8574004058413" y="0" width="15.732501798798644" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="436.58990220463994" y="0" width="10.075643862121748" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="446.6655460667617" y="0" width="5.655153457061935" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="452.32069952382363" y="0" width="4.694446764992009" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="457.01514628881563" y="0" width="2.9848537111843507" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1198,6 +1198,46 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#fc1173d</div>
+                                        <div class="message">fix: 🐛 fix map without any player</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Roymain/Cub3D</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#50d5fc7</div>
+                                        <div class="message">feat: rgb colors as integer</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">cestoliv/cube3d</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#7492f30</div>
                                         <div class="message">feat: ⚡️ return colors as integer + test leaks with leaks OR valgrind</div>
                                     </div>
@@ -1240,46 +1280,6 @@
                                     <div class="commit">
                                         <div class="sha">#692bbb7</div>
                                         <div class="message">feat: 🎨 include rcuminals work</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Roymain/Cub3D</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0d73f6d</div>
-                                        <div class="message">📦 new: parsing</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">cestoliv/cube3d</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#681fb65</div>
-                                        <div class="message">Merge branch 'main' of git.chevro.fr:42-cestoliv/cube3d into main</div>
                                     </div>
                                 </div>
                             </section>
