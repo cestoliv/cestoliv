@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="204.02774260230345" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="204.02774260230345" y="0" width="168.95160718003464" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="372.9793497823381" y="0" width="47.93179982839974" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="420.9111496107378" y="0" width="15.708473292481573" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="436.6196229032194" y="0" width="10.066289092284412" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="446.68591199550383" y="0" width="5.646516249051103" height="8" fill="#438eff"/>
-                    <rect mask="url(#languages-bar)" x="452.33242824455493" y="0" width="4.687276859964166" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="457.01970510451906" y="0" width="2.9802948954809128" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="203.8644145947114" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="203.8644145947114" y="0" width="168.8163582720762" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="372.6807728667876" y="0" width="47.8934295299961" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="420.57420239678373" y="0" width="16.064136933717933" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="436.63833933050165" y="0" width="10.058230840400045" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="446.69657017090174" y="0" width="5.641996107637828" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="452.33856627853953" y="0" width="4.683524607545913" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="457.02209088608544" y="0" width="2.9779091139146066" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1170,6 +1170,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">cestoliv/BABAK</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d0b31ff</div>
+                                        <div class="message">feat: ✨ adding a local mode + contenerization</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">Roymain/Cub3D</span>
                                     </div>
                                 </div>
@@ -1242,26 +1262,6 @@
                                     <div class="commit">
                                         <div class="sha">#af17c3b</div>
                                         <div class="message">revert: 🐛 brig back old value</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Roymain/Cub3D</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d7f3cc3</div>
-                                        <div class="message">feat: ✨ mouse rotation + red cross close the program</div>
                                     </div>
                                 </div>
                             </section>
