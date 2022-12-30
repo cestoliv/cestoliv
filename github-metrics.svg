@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="906" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="905" class="">
     <defs>
         <style/>
     </defs>
@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="208.4677604472117" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="208.4677604472117" y="0" width="171.07981028785812" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="379.5475707350698" y="0" width="48.53499614132097" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="428.08256687639084" y="0" width="10.202837780861088" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="438.28540465725195" y="0" width="8.93371041448275" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="447.2191150717347" y="0" width="5.71757466526896" height="8" fill="#438eff"/>
-                    <rect mask="url(#languages-bar)" x="452.93668973700363" y="0" width="4.746263756548346" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="457.682953493552" y="0" width="2.3170465064480466" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="208.46499155222753" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="208.46499155222753" y="0" width="171.07753798432506" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="379.5425295365526" y="0" width="48.53435149340474" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="428.0768810299573" y="0" width="10.202702265487895" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="438.2795832954452" y="0" width="8.939701533608718" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="447.21928482905395" y="0" width="5.717498723723954" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="452.93678355277785" y="0" width="4.746200716076855" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="457.68298426885474" y="0" width="2.3170157311452564" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1173,6 +1173,30 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">cestoliv/SpamTester</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a44a232</div>
+                                        <div class="message">feat: ✨ CI/CD for server image</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#27872a6</div>
+                                        <div class="message">fix: 🐛 set subject as 'No subject' if it's empty</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">cestoliv/SpamTester</span>
                                     </div>
@@ -1242,30 +1266,6 @@
                                     <div class="commit">
                                         <div class="sha">#939ca1f</div>
                                         <div class="message">feat: ✨ option to hide errors with a null impact</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">cestoliv/SpamTester</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#89ce121</div>
-                                        <div class="message">feat: ✨ adding rspamd</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#29d240d</div>
-                                        <div class="message">feat: ✨ adding logo</div>
                                     </div>
                                 </div>
                             </section>
