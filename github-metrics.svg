@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="822" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="771" class="">
     <defs>
         <style/>
     </defs>
@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="201.5265701819106" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="201.5265701819106" y="0" width="165.3834977683003" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="366.91006795021093" y="0" width="46.91896380126103" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="413.829031751472" y="0" width="17.262659056137693" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="431.09169080760967" y="0" width="9.86312175891585" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="440.9548125665255" y="0" width="8.929755370680763" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="449.8845679372062" y="0" width="5.52720099059351" height="8" fill="#438eff"/>
-                    <rect mask="url(#languages-bar)" x="455.41176892779976" y="0" width="4.5882310722002675" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="201.52451338347706" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="201.52451338347706" y="0" width="165.38180984933834" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="366.9063232328154" y="0" width="46.918484942065625" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="413.824808174881" y="0" width="17.267177673551277" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="431.09198584843233" y="0" width="9.863021095001583" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="440.9550069434339" y="0" width="8.929664232788417" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="449.8846711762223" y="0" width="5.527144579479437" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="455.41181575570175" y="0" width="4.588184244298252" height="8" fill="#F05138"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1177,6 +1177,30 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">cestoliv/ft_transcendence</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#596a200</div>
+                                        <div class="message">feat: 🐛 add 404 to routes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ddc0a32</div>
+                                        <div class="message">docs: ✨ add api documentation</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm.061 3.073a4 4 0 10-5.123 0 6.004 6.004 0 00-3.431 5.142.75.75 0 001.498.07 4.5 4.5 0 018.99 0 .75.75 0 101.498-.07 6.005 6.005 0 00-3.432-5.142z"/>
                                     </svg>
                                     <div class="content">
@@ -1253,44 +1277,6 @@ updated-dependencies:
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">cestoliv/ft_transcendence</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#370a55f</div>
-                                        <div class="message">Merge pull request #4 from cestoliv/websocket-auth
-
-Websockets</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#929e608</div>
-                                        <div class="message">Merge branch 'main' into websocket-auth</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#da85547</div>
-                                        <div class="message">feat: ✨ lots of work on channels</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fa6e91b</div>
-                                        <div class="message">refactor: 🎨 improve code (use env, move functions, etc.)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7362274</div>
-                                        <div class="message">feat: ✨ websocket api seem to work (at least the auth)</div>
                                     </div>
                                 </div>
                             </section>
