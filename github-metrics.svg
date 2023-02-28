@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1024" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="992" class="">
     <defs>
         <style/>
     </defs>
@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="192.02571423283166" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="192.02571423283166" y="0" width="157.58658648641273" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="349.6123007192444" y="0" width="44.706995841138195" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="394.31929656038255" y="0" width="36.62465558494327" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="430.94395214532585" y="0" width="9.398130472877991" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="440.34208261820385" y="0" width="8.516703993002999" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="448.8587866112069" y="0" width="5.874589156717596" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="454.7333757679245" y="0" width="5.266624232075594" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="192.00704149141097" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="192.00704149141097" y="0" width="157.5712626346433" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="349.57830412605426" y="0" width="44.702648495386235" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="394.28095262144046" y="0" width="36.66582495833544" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="430.9467775797759" y="0" width="9.397216590792674" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="440.3439941705686" y="0" width="8.515875821567453" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="448.85986999213605" y="0" width="5.874017906743527" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="454.73388789887963" y="0" width="5.266112101120434" height="8" fill="#438eff"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1188,6 +1188,42 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">game-history-+-leaderboard</span>
+                                        in
+                                        <span class="repo">cestoliv/ft_transcendence</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">cestoliv/ft_transcendence</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5cdf8a4</div>
+                                        <div class="message">feat: ✨ add a display name</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -1284,46 +1320,6 @@ reworked login without 42 api (front), added logout, updated 2fa show up</div>
                                     <div class="commit">
                                         <div class="sha">#54939b9</div>
                                         <div class="message">fix: 🐛 Fix connected clients list not shared between gateways</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">cestoliv/ft_transcendence</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a2fafa9</div>
-                                        <div class="message">Merge branch 'many-fixes'</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">cestoliv/ft_transcendence</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">many-fixes</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8043b46</div>
-                                        <div class="message">fix: 🐛 generate default avatar + better handle errors</div>
                                     </div>
                                 </div>
                             </section>
