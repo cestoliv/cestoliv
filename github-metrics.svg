@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="188.70740363485695" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="188.70740363485695" y="0" width="154.8634030725368" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="343.57080670739373" y="0" width="44.29478152137186" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="387.8655882287656" y="0" width="43.93443421471257" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="431.8000224434782" y="0" width="9.235725577919563" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="441.0357480213978" y="0" width="8.364283547450691" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="449.4000315688484" y="0" width="5.424354380054407" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="454.82438594890283" y="0" width="5.175614051097141" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="188.7646084877484" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="188.7646084877484" y="0" width="154.91034843885737" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="343.6749569266057" y="0" width="44.16876444196093" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="387.8437213685667" y="0" width="43.947752520182895" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="431.79147388874964" y="0" width="9.238525300203133" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="441.02999918895273" y="0" width="8.366819100378972" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="449.3968182893317" y="0" width="5.42599872144412" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="454.82281701077585" y="0" width="5.177182989224173" height="8" fill="#438eff"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1185,6 +1185,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#bdb51c1</div>
+                                        <div class="message">fix:</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">cestoliv/ft_transcendence</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#6f5c2de</div>
                                         <div class="message">feat: ✨ encryption of otp secrets</div>
                                     </div>
@@ -1247,26 +1267,6 @@
                                     <div class="commit">
                                         <div class="sha">#b39661b</div>
                                         <div class="message">fix: 🐛 fix games and status update</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">cestoliv/ft_transcendence</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">fix-multi-friendship</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d816ce0</div>
-                                        <div class="message">fix: 🐛 remove error 500</div>
                                     </div>
                                 </div>
                             </section>
