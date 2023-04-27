@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="884" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="916" class="">
     <defs>
         <style/>
     </defs>
@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="186.68447777317252" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="186.68447777317252" y="0" width="153.27833849214954" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="339.96281626532203" y="0" width="45.76875511039989" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="385.73157137572196" y="0" width="45.3541894070884" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="431.0857607828103" y="0" width="9.44382075073204" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="440.52958153354234" y="0" width="8.274619203727644" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="448.80420073727" y="0" width="6.075667314149186" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="454.8798680514191" y="0" width="5.1201319485807995" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="186.62778682799117" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="186.62778682799117" y="0" width="153.2811601997531" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="339.90894702774426" y="0" width="45.754856397352434" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="385.6638034250967" y="0" width="45.430737817503186" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="431.0945412425999" y="0" width="9.440952921918052" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="440.53549416451796" y="0" width="8.272106429289884" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="448.8076005938079" y="0" width="6.073822300965685" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="454.88142289477355" y="0" width="5.11857710522649" height="8" fill="#438eff"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1194,6 +1194,46 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">cestoliv/CPP-Modules</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#988a58e</div>
+                                        <div class="message">fix: 🚑️ correcting ex02</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">cestoliv/CPP-Modules</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b35c1fe</div>
+                                        <div class="message">fix: 🚑️ correct ex01</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">Streaks-Habits/streaks</span>
                                     </div>
                                 </div>
@@ -1262,42 +1302,6 @@
                                     <div class="commit">
                                         <div class="sha">#65ca544</div>
                                         <div class="message">fix: 🔥 clear ex00</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">cestoliv/CPP-Modules</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#618fc58</div>
-                                        <div class="message">feat: ✨ ex00 working</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">cli</span>
-                                        in
-                                        <span class="repo">Streaks-Habits/runner</span>
                                     </div>
                                 </div>
                             </section>
