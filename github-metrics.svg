@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1201" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="861" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.label,.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;border-radius:32px;font-size:12px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.label,.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;border-radius:32px;font-size:12px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -1154,6 +1154,45 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">lumapps/lumapps-web</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feat/CTRIB-5045</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2b2da61</div>
+                                        <div class="message">feat(enhanced-image): add an inline dialog to add a link to the image
+
+CTRIB-5045</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#11509 feat(wrex-image): allow copy pasting an image with link from view + translation</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">lumapps/lumapps-web</span></div>
+                                    <div>4 files changed <span class="code">++74 --8</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -1230,169 +1269,6 @@ SUP-5975</div>
                                         <div class="message">feat(enhanced-image): add an inline dialog to add a link to the image
 
 CTRIB-5045</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#11419 feat(kill-dita): update rte widget write endpoints</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Fafnor in <span class="repo">lumapps/lumapps-web</span></div>
-                                    <div class="comment">
-                                        TEST OK
-                                        <img class="gemoji" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAI4klEQVR4nN2bzVMT2RrGE0eXeu+tun/ArNmysWo28fQ3OLPL6i5CNCSCIsg3BLARUZGPQT4vgoAQAgRREJSZK+pYVrmanfg3uBkXend20u/Uc9LNtBgUBCah36onX93nPc/v9OnTp08Sj+dgw6vr+hH9ue+orvuO4v3OyviOpsvoR3ZYJrfCn/B/l0j4v8u0beT3/GO1yz8d12Paieurhf+6kRD/gdf4DNsylUEu5PTkeHi3QuO9ntDyovNqoGle7WmaVdeicXUjGlffRWfUD9E413vr9Ttswz7YF2VQNlPOnOsVerp7b0Z0TjvZnFC7o7Pa62hcNVofFFL7ox+pbeU0ta0WUttqAbU9Kvjr2X6NbSun+b4og7LIwXPNaSe/VGdWwu84OuGR/GNNc0qwMa6+isZVanv4I7UuFdCVFY3af9GS159qRsdzLdnxQkvdfKGZmYRt2Af7ogzKIgdyISdyow7UlcnD3xle5xGAqYa4sqEvFlLrgwLSlxVq/1U1bjxTUx0vVLPjN5VuQM93qN9UQhmURQ7kQk6ee7GQUBfqtOvfxQC799DTIzOP5oScXz+jvLy8WEgtixq1PlST19bV5HULBM/Xn+1RjlzIjTpQF+pE3fCQyduBRMLR3epjakN9TKGWewXUsqQY7U/UFDf5TKVrTw9IVoOgLtSJuuEBXjJ53NfQrS7fsfzT8YYZZQVHoHFeoStrqmFDt6+nde2AtJnfagzUDQ/wAk/w5vS6f/DP0wnrZ9Xv62PKm8uLp6lpUTGuPlHN9qcqXX2SHVl1m/ACT/AGj07Pe4fX04mqYkJe7bTyNpoooOYl5ePV9bSJtiyLN8a6yj3BGzzCq9P7N0fCOp/QqrVT8tvGOY1alhWjbV2hK/9Lq816zoacdcMTvMEjvNo94ZvHBN0aUTFFrZ6S3jTMatS8LBttTxRq/TU3BW/wCK/wDO9Olt2E135Rc1deic4XUuOi/PEKKvoltwWP8ArP8J6JaQdH38fPneopuaFxroAa5mUDyfW1wyF4hWd4B4OT6avht86Zqhk5v2pCphpc6x8r5uU1hS4/Vog/57Isj/AM72AAi5NtR1E5Lr2si2vUtCwbPOEj+VAJnuEdDGDZVde/NC4G62Y0qpuTjJbHMjWvHk7BOxjAAqavnQpePOBOq2JM2kD3iS7LqaZVmZpWDqlWZc4AFjA57iI/HxAT1vmBlqqZ1qhmTk7yBNmG2IO491WZs4DJ7gVfnBuUj8mvamIqNSzJyehDmRoPucAAFjCBLSO032qRslHxZPmoRFUxiRduWHaHwAImsIHRyexxvrk4JnXXxDSqXZCMhmWJ6pfcIbCACWxgdDJvDgj44MJ/xdeVUzLV3ZdSdQ8kcpXuSymwgdEB7/XouofPk8vGhbzzQ6JxaVqiuiXJrLvPC7kBPK0lyQQbGMEKZh3s9nXx/IgQqBhXqGpWStbel6h20WW6L3E2MII13QC+o5sNcGFE7Kma1qg6IRk1ixLV3HOZFiXOBkawbjaAxxoDSofEtYpJhaoWpGT1PYmqF0R36Z7E2cAI1s0xAIEZUsmAsFE+KVPVgpiqWhDJpUqBEazO7xY8Z+78cDzSL767OCFR5YJoViZEcqUWRBOM5wbEP8DssaOsTzsR6RM+lKEBEqJ5aV4kqNIl2uRJiCYYOWtMO7HZABUTvn9G+sX32FgxL5oVcyK5UvOiWTaOBhDf46B77AjHff8O94n/vzCeboDyWZG45lwim2deNMEY3toAZ+78cLy4V/hw/g4KCObFuEBQuUu0yTMnmGAE62cNEOoV3pWMilQWF8yyGYFcqbhggjF0S/jjTIdjEAyP5B8L/SxslNyWqCwmpMpiArlUKTCC1XkZ9OIh1CuslY7IdCEmJC/EBHKpkmAE6ya7z5oOnu1lPaWjKpXeFYzz0wK5UWADI1jB7HPeC5ztEQLhQZkiY0KyFDtPuUzTAmcDI1gdN0Mefjsc7BPygl3MKB5mVDLNzJK7jFylaWaCDYxgTTeA58gnCyKBLva6eFCkcxMsdW6Skas0wVJgA+MnCyII+4OibqEbXSQ8ygwUiky4Q2ABE9jA6GTm4ffbDeA7WdTF6OwAo4iLGgAsYAIbGJ3Mn0Wgk70qHpAoPM6SWTe+TwILmMDm2S78VpcI9rBgcZ9EZ4dY0hW9AEd/iCXBBDYn67ZfjRV1sY1Qn0iROyyVdYC96g5LgQVMX/xqDGFPingv6JcpNMCMQ90LJhlnAIt99G3Gr0ag69TL4n6Jj56HshGskR8MYPHsNPzW+RG6dSq/qJNRsJdReIKZWQfapeAZ3sEAFifbV8NnnwrdpxrCAzKd7T9kvQADXz8z4B0Mu+r6WweJQDdbQaLQMPt4KBoB5/0w+wjP8G5z7PrH1Lr10zIslhR1sTehPomKh3N7hghv8Aiv8Gyv/H7zj6j99hT5Z9/3RV3sbehWuhFysifY8Lc4/Ft4djJ8c/js8aBLyOON0Cfl3ulgdXvryL+FV6f3PYduJbJ6wht7YORXh8ksX+ommGkPePBmH/l9/8W4z0qI8yqIgRGTC1wiszVPsK7z3AO8dLMV+5zftyO/NZznEy4vuMZiosFnjJg2/x0NMWlNb/kMT+LXeftSt9XjgYTuGFExwUjPGGXCfBs3HfwuEib3szGsfMiNOlAX6kTd9iRnq7eDDq+zm2GejZsN3HHhthP33uHbzIiMs1TkrjVO7LZBsD/KjrMUciEncqMO1GXP7RGWF2/W/zYX7GFB3HNj4QGrL6F+kUKDjIpHWDI8xozIBNYYBJwqZkZh20R63+LbLImyyMFXcroYv59HHbnwt7lPYuugw1eWuoXuQCd7HbiZvjZHhhUqHpQI63KhQYFCQ1s0KPBt2Af74pKGssiBXPZKznZ15kJ4tx4NvE+vNguBYBfrKeo8tRa4yTaKOtm7opvsQ6CTvYfwGp+lt51aw768TJ+Qlylnzv11dmtgvW27ronui+/l/tOnnXAKn33yqw1nPvx5ers1vBwPL9be0V13MVDxARay1u0P9Gj/CS5kWjfxsNR2AAAAAElFTkSuQmCC" height="16" width="16" alt="" />
-                                        <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                        Widget rich text with FF
-                                        <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                        Widget rich text without FF
-                                        <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                        Article with FF
-                                        <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                        Article without FF
-                                        <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                        Widgte rich text created with FF are not displayed without FF
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 132 commits in
-                                        <span class="repo">lumapps/lumapps-web</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feat/CTRIB-5049</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6f2740e</div>
-                                        <div class="message">feat(microapp): export current microapp in json format
-
-MA-365</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#547d676</div>
-                                        <div class="message">Merge pull request #11435 from lumapps/feat/new-ff-microapps
-
-feat(micro-apps): new feature flags for micro-apps</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ccf5b22</div>
-                                        <div class="message">feat(micro-apps): new feature flags for micro-apps
-
-MA-374</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ad64b81</div>
-                                        <div class="message">Merge pull request #11432 from lumapps/feat/MP-2994-only-edit-mobile-compatibility-last-version
-
-feat(dev-portal): only edit mobile compatibility on last version</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#51b0c81</div>
-                                        <div class="message">feat(dev-portal): only edit mobile compatibility on last version
-
-MP-2994</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5c4942e</div>
-                                        <div class="message">Merge pull request #11403 from lumapps/refactor_combobox_rework_option_dom_layout_add_description_slot
-
-refactor(combobox): rework option DOM layout &amp; add description slot</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0cb5386</div>
-                                        <div class="message">refactor(combobox): rework option DOM layout &amp; add description slot</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1702778</div>
-                                        <div class="message">Merge pull request #11411 from lumapps/chore_lumx_update_custom_icon_optimize_procedure
-
-chore(lumx): update custom icon optimize procedure</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#28d6d2b</div>
-                                        <div class="message">chore(lumx): optimize custom icons</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6f9d9e7</div>
-                                        <div class="message">chore(lumx): update custom icon optimize procedure</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#00196ba</div>
-                                        <div class="message">Merge pull request #11425 from lumapps/fix/SUP-5934-hide-image-from-screen-reader
-
-fix(learning-catalog): hide image alt from screen readers</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7049389</div>
-                                        <div class="message">fix(learning-catalog): hide image alt from screen readers
-
-SUP-5934</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#255a2d5</div>
-                                        <div class="message">Merge pull request #11288 from lumapps/feat/AAI-721-remove-alpha-ff-azure-sources
-
-feat(ask-ai): remove alpha ff from sources form section</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f4794f9</div>
-                                        <div class="message">feat(ask-ai): remove alpha ff azure sources
-
-Removing the alpha FF for assistant sources and assistant rules.
-Leave it for azure sources.
-
-AAI-721</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eff92d7</div>
-                                        <div class="message">Merge pull request #11431 from lumapps/feat/MP-2993-cant-create-version-as-admin
-
-feat(dev-portal): cant create version as admin</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e7c8f53</div>
-                                        <div class="message">feat(dev-portal): cant create version as admin
-
-MP-2993</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f913682</div>
-                                        <div class="message">Merge pull request #11430 from lumapps/feat/MP-3004-update-actions-extension-list
-
-feat(dev-portal): update extension list actions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d302b2</div>
-                                        <div class="message">feat(dev-portal): update extension list actions
-
-MP-3004</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e32f42</div>
-                                        <div class="message">Merge pull request #11408 from lumapps/feat/CTRIB-5051
-
-feat(content-bulk): add data-ids for E2E tests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#498fc4b</div>
-                                        <div class="message">feat(content-bulk): add data-ids for E2E tests
-
-CTRIB-5051</div>
                                     </div>
                                 </div>
                             </section>
