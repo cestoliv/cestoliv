@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="789" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1302" class="">
     <defs>
         <style/>
     </defs>
@@ -1172,6 +1172,220 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 16 commits in
+                                        <span class="repo">lumapps/lumapps-web</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">chore-save-widget-richText-translations-using-new-languages-keys</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#336c0e7</div>
+                                        <div class="message">chore(widget-rich-text): save richText translations using new languages keys</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4e9081b</div>
+                                        <div class="message">Merge pull request #11733 from lumapps/feat/learning-events-page
+
+feat(learning): add learning events page</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a6e8445</div>
+                                        <div class="message">feat(learning): add learning events page
+
+LEARN-605</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a1061b3</div>
+                                        <div class="message">Merge pull request #11754 from lumapps/fix/BRIDGE-1077-fix-flacky-test-second-attempt
+
+chore(unit-test): remove memory leak from tests</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#012b22e</div>
+                                        <div class="message">chore(unit-test): remove memory leak from tests
+
+BRIDGE-1077</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b1815d2</div>
+                                        <div class="message">Merge pull request #11723 from lumapps/fix/SUP-6140-content-list-filter-issue
+
+fix(content-list): update template with default instance and sort</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0864e5c</div>
+                                        <div class="message">fix(content-list): update template with default instance and sort
+
+SUP-6140</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5d56fad</div>
+                                        <div class="message">Merge pull request #11565 from lumapps/feat/MA-326
+
+feat(micro-apps): add lumapps component uploader in the studio</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9f87430</div>
+                                        <div class="message">feat(micro-apps): add lumapps component uploader in the studio
+
+MA-326</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5353909</div>
+                                        <div class="message">feat(pickers): add a close button on GlobalPickerDialog
+
+MA-326</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#223a249</div>
+                                        <div class="message">Merge pull request #11729 from lumapps/feat/AAI-881-merge-assistant-search-options-rule-answer
+
+feat(ask-rules): remove the assistant source type answer</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#826c635</div>
+                                        <div class="message">feat(ask-rules): merging external sources answer
+
+Second part of the work aiming at removing the notion of sourceType.
+Merging rules answer options assistant source and external sources.
+
+AAI-881</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#45ac563</div>
+                                        <div class="message">Merge pull request #11741 from lumapps/fix/AAI-903-remove-lumapps-source-non-alpha
+
+fix(ask-sources): make lumapps option alpha</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#650c779</div>
+                                        <div class="message">fix(ask-sources): make lumapps option alpha
+
+AAI-903</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#947332b</div>
+                                        <div class="message">Merge pull request #11731 from lumapps/fix/PLY-1537-fix-flacky-test-playlist-parameters-dialog
+
+fix(play): fix flacky test playlist parameters dialog</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#02e7a66</div>
+                                        <div class="message">fix(play): fix flacky test playlist parameters dialog
+
+PLY-1537</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 14 commits in
+                                        <span class="repo">lumapps/lumapps-web</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">chore-show-ditribute-notification-only-on-publish</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ed07855</div>
+                                        <div class="message">chore(content): show the distribute content notification only on publish</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a1061b3</div>
+                                        <div class="message">Merge pull request #11754 from lumapps/fix/BRIDGE-1077-fix-flacky-test-second-attempt
+
+chore(unit-test): remove memory leak from tests</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#012b22e</div>
+                                        <div class="message">chore(unit-test): remove memory leak from tests
+
+BRIDGE-1077</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b1815d2</div>
+                                        <div class="message">Merge pull request #11723 from lumapps/fix/SUP-6140-content-list-filter-issue
+
+fix(content-list): update template with default instance and sort</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0864e5c</div>
+                                        <div class="message">fix(content-list): update template with default instance and sort
+
+SUP-6140</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5d56fad</div>
+                                        <div class="message">Merge pull request #11565 from lumapps/feat/MA-326
+
+feat(micro-apps): add lumapps component uploader in the studio</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9f87430</div>
+                                        <div class="message">feat(micro-apps): add lumapps component uploader in the studio
+
+MA-326</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5353909</div>
+                                        <div class="message">feat(pickers): add a close button on GlobalPickerDialog
+
+MA-326</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#223a249</div>
+                                        <div class="message">Merge pull request #11729 from lumapps/feat/AAI-881-merge-assistant-search-options-rule-answer
+
+feat(ask-rules): remove the assistant source type answer</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#826c635</div>
+                                        <div class="message">feat(ask-rules): merging external sources answer
+
+Second part of the work aiming at removing the notion of sourceType.
+Merging rules answer options assistant source and external sources.
+
+AAI-881</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#45ac563</div>
+                                        <div class="message">Merge pull request #11741 from lumapps/fix/AAI-903-remove-lumapps-source-non-alpha
+
+fix(ask-sources): make lumapps option alpha</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#650c779</div>
+                                        <div class="message">fix(ask-sources): make lumapps option alpha
+
+AAI-903</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#947332b</div>
+                                        <div class="message">Merge pull request #11731 from lumapps/fix/PLY-1537-fix-flacky-test-playlist-parameters-dialog
+
+fix(play): fix flacky test playlist parameters dialog</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#02e7a66</div>
+                                        <div class="message">fix(play): fix flacky test playlist parameters dialog
+
+PLY-1537</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -1233,44 +1447,6 @@ CTRIB-5101</div>
                                 <div class="details">
                                     <div> in <span class="repo">lumapps/lumapps-web</span></div>
                                     <div>3 files changed <span class="code">++137 --3</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">feat/CTRIB-5097</span>
-                                        in
-                                        <span class="repo">lumapps/lumapps-web</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">lumapps/lumapps-web</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feat/CTRIB-5101</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a19c199</div>
-                                        <div class="message">feat(style): migrate CodeMirror from v5 to v6
-
-CTRIB-5101</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
