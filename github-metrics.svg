@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.markdown b,code{display:inline-block}.markdown b{width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.token.comment{color:#690}.space{margin-left:7px}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -1147,6 +1147,136 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 20 commits in
+                                        <span class="repo">lumapps/lumapps-web</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feat/CMS-480</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1542499</div>
+                                        <div class="message">feat(designer): persist the contribution mode between editions
+
+CMS-480</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5079124</div>
+                                        <div class="message">Merge pull request #12152 from lumapps/fix/SUP-6442-fix-google-drive-upload
+
+fix(play): Fix the drive upload</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#862cc37</div>
+                                        <div class="message">fix(play): Fix the drive upload
+
+SUP-6442</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2d00b57</div>
+                                        <div class="message">Merge pull request #12141 from lumapps/feat/PLY-1626-force-option-edit-modal
+
+feat(play): force option in edit modale</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#28243f7</div>
+                                        <div class="message">feat(play): force option in edit modale
+
+PLY-1626</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0623874</div>
+                                        <div class="message">Merge pull request #12019 from lumapps/fix/SUP-6317-calendar-events-timezone-issue
+
+fix(calendar): issues with timezones</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6edbe62</div>
+                                        <div class="message">chore(calendar): add integration test on timezones</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b32bf0a</div>
+                                        <div class="message">fix(calendar): issues with timezones
+
+SUP-6317</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3b60184</div>
+                                        <div class="message">Merge pull request #12131 from lumapps/chore_content_fix_tests_for_react_18
+
+chore(content): fix tests for React 18</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#545699f</div>
+                                        <div class="message">chore(content): fix tests for React 18</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8ae595c</div>
+                                        <div class="message">Merge pull request #12077 from lumapps/feat/CMS-565
+
+feat(designer): make revision restore create a new draft</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7029d3b</div>
+                                        <div class="message">feat(designer): make revision restore create a new draft
+
+CMS-523</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e1968f2</div>
+                                        <div class="message">Merge pull request #12070 from lumapps/feat/CMS-447-restrict-reactions-on-public-sites
+
+feat(reactions): disable reactions for unlogged user</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#44c0b60</div>
+                                        <div class="message">feat(reactions): disable reactions for unlogged user
+
+CMS-447</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8ac2636</div>
+                                        <div class="message">Merge pull request #12083 from lumapps/feat/MA-510-use-internal-card-designer-page
+
+feat(devportal): add internal page for card designer</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6d7cf51</div>
+                                        <div class="message">feat(devportal): add internal page for card designer
+
+MA-510</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d7210d8</div>
+                                        <div class="message">Merge pull request #12146 from lumapps/chore/remove-surround-with-act
+
+chore(tests): deprecate surroundWithAct</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d497631</div>
+                                        <div class="message">chore(tests): deprecate surroundWithAct</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a16a1b</div>
+                                        <div class="message">Merge pull request #12040 from lumapps/feat/CMS-326-widget-title-ngi-in-designer
+
+feat(widget): title widget NGI in designer</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4f0aa79</div>
+                                        <div class="message">feat(widget): title widget NGI in designer
+
+CMS-317</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">lumapps/lumapps-web</span>
                                     </div>
@@ -1218,140 +1348,6 @@ SUP-6421</div>
                                 </div>
                                 <div class="details">
                                     <div>opened  in <span class="repo">lumapps/lumapps-web</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 98 commits in
-                                        <span class="repo">lumapps/lumapps-web</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feat/CMS-480</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#465ee90</div>
-                                        <div class="message">feat(wrex-emoji): support colon for emoji insertion
-
-CMS-546</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e553fdf</div>
-                                        <div class="message">Merge pull request #12060 from lumapps/fix/sup-6211
-
-fix(featured-image): fix missing value for content thumbnail</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#949b45f</div>
-                                        <div class="message">fix(featured-image): fix missing value for content thumbnail
-
-SUP-6211</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7714961</div>
-                                        <div class="message">Merge pull request #11973 from lumapps/chore_widget_add_type_and_externalkey_resource_info
-
-Reapply "feat(designer): add widget directory entries NGI in designer"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eb87b23</div>
-                                        <div class="message">chore(widget): add type and externalKey resource info
-
-CMS-476</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1f25c2a</div>
-                                        <div class="message">feat(designer): add widget directory entries NGI in designer
-
-BRIDGE-971</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3c11c6a</div>
-                                        <div class="message">Merge pull request #12107 from lumapps/feat/fact-set
-
-feat(micro-apps): use markdown in fact set values</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#79068a5</div>
-                                        <div class="message">feat(micro-apps): use markdown in fact set values
-
-MAF-196</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3392c68</div>
-                                        <div class="message">Merge pull request #12105 from lumapps/chore/bump-python
-
-chore(ci): bump python version</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9b1ce88</div>
-                                        <div class="message">chore(ci): bump python version
-
-deprecated in github runner</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5e8210e</div>
-                                        <div class="message">Merge pull request #12093 from lumapps/feat/cms-512
-
-feat(wrex-image): improve image insertion position</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f03c2ac</div>
-                                        <div class="message">feat(wrex-image): improve image insertion position
-
-CMS-512</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3accda6</div>
-                                        <div class="message">Merge pull request #11988 from lumapps/fix_content-link_fix_error_on_malformed_route_path_using_params
-
-fix(content-link): fix error on malformed route path using params</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#26684ba</div>
-                                        <div class="message">fix(content-link): fix error on malformed route path using params
-
-CMS-494</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bc9d5dc</div>
-                                        <div class="message">Merge pull request #11923 from lumapps/feat/aai-941-microapp-source-type-form-block
-
-feat(ask-ai): microapp source type form block</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2872cf8</div>
-                                        <div class="message">feat(ask-ai): add microapp source type
-
-AAI-941</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#be72a7e</div>
-                                        <div class="message">Merge pull request #12103 from lumapps/chore/post-idea-question-data-id
-
-chore(spaces): add data id to space posts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0762754</div>
-                                        <div class="message">chore(spaces): add data id to space posts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3f552da</div>
-                                        <div class="message">Merge pull request #12066 from lumapps/fix/CMS-481
-
-fix(designer): Display a toolbar with close button for version dialog in NCE</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5516eaf</div>
-                                        <div class="message">fix(designer): Display a toolbar with close button for version dialog in NCE
-
-CMS-481</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
